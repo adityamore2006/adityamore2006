@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on projects that help me become a full-stack developer <br>
 🌱 I’m currently learning React and building small projects to practice component-based development <br>
-⚡ Fun fact: I love programming while listening to jazz
+⚡ Fun fact: I love listening to jazz while programming
 
 
 ## 🌐 Socials:
